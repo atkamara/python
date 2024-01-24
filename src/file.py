@@ -10,7 +10,7 @@ def do_something():
 
 	"""
 	print("Hello World !!!")
-	print(sys.args)
+	print(sys.argv)
 
 
 if __name__ == '__main__':
