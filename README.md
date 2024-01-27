@@ -1,2 +1,2 @@
 # python
- course material about python
+learning python
